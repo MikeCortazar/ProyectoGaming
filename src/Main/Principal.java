@@ -10,7 +10,8 @@ public class Principal {
 		Scanner sc = null;
 
 		LogicaMetodos imp = new LogicaMetodos();
-
+		System.out.println("Hola Gamer");
+		System.out.println("Tienes un GamePass"+100);
 		String nombre;
 		char clasificacion;
 		float precio;
